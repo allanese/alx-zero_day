@@ -1,3 +1,2 @@
-#file
--#!/bin/bash
-School
+--#!/bin/bash
+--echo "School"
