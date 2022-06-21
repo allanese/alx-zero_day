@@ -1,3 +1,2 @@
-#Alx
--#!/bin/bash
--echo "ALX"
+-!/bin/bash
+ALX
